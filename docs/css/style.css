@@ -26,7 +26,7 @@ body{ background:#010125; border:0; font: 12px Arial, Helvetica, sans-serif; col
 header{position: relative; z-index: 1; padding-top: 25px; }
 .header_inner{padding-bottom: 20px; border-bottom: 1px solid #0b3166; margin-bottom: 20px;}
 
-.top1{float: left; font-family: 'Titillium Web'; font-weight: 700; font-size: 30px; line-height: 30px; color: #fff;}
+.top1{float: left; font-family: 'Michroma'; font-weight: 700; font-size: 30px; line-height: 30px; color: #fff;}
 .top1 span{font-weight: 300;}
 .logo{color: #fff; text-decoration: none; display: inline-block;}
 .logo:hover{color: #badeff;}
