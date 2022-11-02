@@ -36,7 +36,7 @@ header{position: relative; z-index: 1; padding-top: 25px; }
 .slider_wrapper{margin-bottom: 20px;}
 .logo2{height: 220px;}
 .logo2 a{display: block; width: 100%; height: 100%; text-align: center; background: url(../images/logo2_bg.jpg) left top repeat-x #3ea2fd;}
-.logo2 a img{display: inline-block; padding-top: 30px;}
+.logo2 a img{display: inline-block; padding-top: 79px;}
 
 #slider{height: 220px; overflow: hidden; position: relative;}
 
